@@ -1,22 +1,49 @@
-# Cyclistic Bike-Share Case Study
+# 🚴 Cyclistic Bike-Share Analysis
 
-## Overview
-This project analyzes Cyclistic Bike-Share data to identify rider trends and suggest business strategies.
+## 📌 Overview
+This project analyzes Cyclistic’s bike-share data to uncover usage patterns and provide actionable insights for improving customer retention and business strategy.
 
-## Tools Used
+- Simplifies complex data into clear, visual insights  
+- Communicates analysis effectively to stakeholders  
+- Provides recommendations and next steps  
+
+## 🛠️ Tools & Skills
 - SQL (BigQuery)
-- Tableau
+- Tableau (Data Visualization & Dashboard)
 - Google Sheets
 - Google Slides
+- Canva
 
-## Key Insights
-- Members ride more frequently than casual riders.
-- Seasonal and weekly trends affect ride behavior.
-- Recommendations: Improve casual-to-member conversion via targeted campaigns.
+---
+
+## 📂 Project Structure
+- **sql/** → [SQL Queries](./sql/queries.sql)  
+- **tableau/** → Dashboard Screenshot & [Tableau Public Link](./tableau/dashboard_link.txt)  
+- **slides/** → [Presentation PDF](./slides/presentation.pdf)  
+
+---
+
+## 📊 Key Findings
+- **Casual riders** tend to ride longer on weekends, indicating leisure or tourist use.  
+- **Members** primarily ride on weekdays, especially during commuting hours.  
+- Differences exist in ride times, frequency, and bike type preferences between casual riders and members.  
+
+---
+
+## 💡 Insights & Recommendations
+- **Casual riders:** Leverage weekend usage patterns by offering weekend campaigns or tourist-focused memberships.  
+- **Members:** Optimize bike availability and services according to weekday commuting patterns. 
+- Highlight these insights to support marketing strategies and improve customer retention.  
+
+---
 
 ## Deliverables
 - SQL queries
-- Tableau dashboard (screenshot)
+- Tableau dashboard 
 - Slide deck (PDF)
 - Project planning document
 
+---
+
+## 📬 Contact
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/)  
