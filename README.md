@@ -46,4 +46,4 @@ This project analyzes Cyclistic’s bike-share data to uncover usage patterns an
 ---
 
 ## 📬 Contact
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/)  
+- 🌐 [LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/kimiko-hashimoto-king/))  
