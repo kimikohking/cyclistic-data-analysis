@@ -12,7 +12,7 @@ This project analyzes Cyclistic’s bike-share data to uncover usage patterns an
 - Tableau (Data Visualization & Dashboard)
 - Google Sheets
 - Google Slides
-- Canva
+- Canva (Presentation Design)
 
 ---
 
