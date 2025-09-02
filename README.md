@@ -18,7 +18,7 @@ This project analyzes Cyclistic’s bike-share data to uncover usage patterns an
 
 ## 📂 Project Structure
 - **sql/** → [SQL Queries](./sql/queries.sql)  
-- **tableau/** → Dashboard Screenshot & [Tableau Public Link](./tableau/Dashboard.png)  
+- **tableau/** → [Dashboard Screenshot](./tableau/Dashboard.png) & [Tableau Public Link](https://public.tableau.com/app/profile/kimiko.king/vizzes)(https://public.tableau.com/app/profile/kimiko.king/vizzes)
 - **slides/** → [Presentation PDF](./slides/Slide_Bike_Share.pdf)
 - **slides/** → [Project Planning PDF](./slides/Project_planning.pdf)
 
