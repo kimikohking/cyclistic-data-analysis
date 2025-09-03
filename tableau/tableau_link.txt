@@ -1,3 +1,0 @@
-Tableau Public Profile
-Link: https://public.tableau.com/app/profile/kimiko.king/vizzes
-Description: View my Tableau dashboards, including the Cyclistic Bike-Share case study and other projects.
