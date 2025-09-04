@@ -11,4 +11,4 @@
 - Defined **project goals, scope, major activities, deliverables, and schedule** for structured analysis before starting.
 
 ### Project Planning Document
-For a clear overview of project scope, deliverables, and structured planning, see the [Project Planning Document PDF](リンクURL).
+For a clear overview of project scope, deliverables, and structured planning, see the [Project Planning Document PDF](https://github.com/kimikohking/cyclistic-data-analysis/blob/main/slides/Project_planning.pdf).
