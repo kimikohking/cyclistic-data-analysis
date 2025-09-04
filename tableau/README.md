@@ -11,4 +11,4 @@
 - Delivered a **visual representation of trends and actionable insights** for decision-making.
 
 **Dashboard Link:**  
-[Cyclistic Bike-Share Analysis on Tableau Public](https://public.tableau.com/app/profile/kimiko.king/vizzes)
+[Cyclistic Bike-Share Analysis on Tableau Public](https://public.tableau.com/app/profile/kimiko.king/viz/CasestudyHowdoesabike-sharenavigatespeedysuccess_17545060403310/Dashboard12)
