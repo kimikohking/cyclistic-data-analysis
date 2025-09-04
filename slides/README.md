@@ -9,3 +9,6 @@
 - Demonstrated ability to **communicate technical analysis effectively to non-technical stakeholders**.  
 - Provided **recommendations and next steps** that support business strategy and decision-making.  
 - Defined **project goals, scope, major activities, deliverables, and schedule** for structured analysis before starting.
+
+### Project Planning Document
+For a clear overview of project scope, deliverables, and structured planning, see the [Project Planning Document PDF](リンクURL).
